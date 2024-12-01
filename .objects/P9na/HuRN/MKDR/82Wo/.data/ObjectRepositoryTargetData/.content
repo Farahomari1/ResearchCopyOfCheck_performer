@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pRW2BtpLvECDCjTPp20pQg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/checks/upload" CVScreenId="241dd3a2-0a33-4287-b075-d54576219644" DesignTimeRectangle="344, 737, 188, 42" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' aaname='Upload Check Copy' type='button' visibleinnertext='Upload Check Copy' /&gt;" FuzzyAccuracy="0.95" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' aaname='Upload Check Copy' type='button' visibleinnertext='Upload Check Copy' class='btn btn-primary' check:text='Upload Check Copy' /&gt;" Guid="362fde2c-0fe8-464b-a4f3-b6a6cc33237d" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Upload Client Check' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1d59c5172debcd791679ce68e75eb89e.png" xmlns="">0BVYcZYDbuk6SOS0zX0mx0w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

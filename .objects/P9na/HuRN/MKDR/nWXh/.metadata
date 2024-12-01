@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Check Number",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "nWXhCEWlnEeAr1rmeaJmGw",
+  "Reference": "64Bhp-FzLkasPmHxysIGoQ/nWXhCEWlnEeAr1rmeaJmGw",
+  "ParentRef": "64Bhp-FzLkasPmHxysIGoQ/MKDRq4tDA0qHO67K9XPBmg",
+  "Created": "2024-11-24T03:28:14.1434056Z",
+  "Updated": "2024-11-24T03:28:14.1434056Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

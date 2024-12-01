@@ -1,0 +1,14 @@
+﻿{
+  "Name": "graphic",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "DBkNDKO0rEeRNRoDcqsMnw",
+  "Reference": "64Bhp-FzLkasPmHxysIGoQ/DBkNDKO0rEeRNRoDcqsMnw",
+  "ParentRef": "64Bhp-FzLkasPmHxysIGoQ/u-x0gvMc2kecyNgpfbUgog",
+  "Created": "2024-11-23T13:40:23.0997053Z",
+  "Updated": "2024-11-23T13:40:23.0997053Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

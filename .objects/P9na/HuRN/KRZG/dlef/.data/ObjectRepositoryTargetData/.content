@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jOQoF754nkOzjTpyOYffJA" Reference="64Bhp-FzLkasPmHxysIGoQ/dlefXSz2aEO4aL2cgSbN_A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/testdata/checks/54/Check-Request-For-76235781.pdf" CVScreenId="98eb85e8-d842-485a-bb50-e5d20b43c9ca" CvElementArea="1612, 114, 25, 25" CvType="Icon" DesignTimeRectangle="1761, 109, 29, 29" DesignTimeScaleFactor="1.25" ElementType="Icon" Guid="8aeee51a-694e-4852-87c8-5f64a98e0150" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAYAAABWk2cPAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF2SURBVEhL7ZXNqoJAGIbP1fiDgotuQe/B3NQNdBsuW4iLIEFatXYtLiKvIwpcRLS0XH6Hd2DCbMw/PHDAxQPj5/t9D07D9FMUBf01k3RUJumL2+1GaZrS8XhsBLn7/S6cU+ardLvdkqqqJElSazRNoyAIhPM4tdLL5cKGRFFEj8eD1us1OY4jzAJkD4cDJUlChmGQ53nCHKiVYqswCEI8t5Fii7GGWFEU2mw2HzlQK8UADOLPXaQgDENWy7LsLQdaS3e7HZmmyepV4jhm2dPp9Mrnec5q2DFe47SWns9nsiyLZFlm9TKz2Yz2+/1bP8A7zKnWW0v78P+kOME4kThMTSD3fD5Z3yCp7/uk6zrN53N2guvAe+T45TBIulgsyHXdj4wI5JbLJVsPkuIrsHXVjAjkkMd6ktZKy3dvHyn60N/pRsKVhib8y9i23UmKPPrQX74aObVSsFqtWGNf0C+a+1UKrtcr+126gj7RPNAoHYNJOiIF/QJ2jZh7Dp1H5wAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Check-Request-For-76235781.pdf' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a27fab56bb6930e1405286f3c0022b4c.png" xmlns="">04WhchjjYaEy-8b9z2n-SUA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

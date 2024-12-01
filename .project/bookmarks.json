@@ -1,0 +1,15 @@
+{
+  "Value": {
+    "ACME3/ACME3_FillClientChecksForm.xaml": [
+      {
+        "IsEnabled": true,
+        "Annotation": null,
+        "Id": "b064cb6c-0d45-42a6-a681-8a159751f97c",
+        "ActivityIdRef": "Assign_3",
+        "ActivityId": "1.148",
+        "ActivityName": "Assign",
+        "IsTransient": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EJ78PwGOiEmbvyJyorsGZw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="71a936eb-9e07-402b-84bd-439ab5dd91b9" DesignTimeRectangle="27, 371, 843, 24" DesignTimeScaleFactor="1.25" ElementType="ListItem" FullSelectorArgument="&lt;wnd ctrlname='listView1' /&gt;&lt;ctrl name='-' role='list item' virtualname='- No search results  ' /&gt;" FuzzyAccuracy="0.94" FuzzySelectorArgument="&lt;wnd ctrlname='listView1' /&gt;&lt;ctrl name='-' role='list item' virtualname='- No search results  ' automationid='' check:text='-' /&gt;" Guid="8a36ac1e-9b45-44a9-b61a-608a9dbd91cb" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='SearchCheckCopy' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="28bbe8c2b7e2d71d98d224f3b5bddac1.png" xmlns="">071v6Y8vhGEaBktTmKNTtMQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

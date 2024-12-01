@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Qn2ZAgKBHEejYA5jCJhg9w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/checks/upload" CVScreenId="6943f216-673b-456f-8600-336bd9fa7892" DesignTimeRectangle="1656, 973, 110, 33" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Open' aaname='Open' cls='Button' /&gt;" FuzzyAccuracy="0.95" FuzzySelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Open' aaname='Open' cls='Button' check:text='&amp;amp;Open' /&gt;" Guid="f7ad4b82-ab7c-4aa3-ab74-9426bc740864" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='#32770' title='Open' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bf92171b37c3b0524f809ee667a6f732.png" xmlns="">0JtjpYgLjVE-lYUj4-GqtDg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

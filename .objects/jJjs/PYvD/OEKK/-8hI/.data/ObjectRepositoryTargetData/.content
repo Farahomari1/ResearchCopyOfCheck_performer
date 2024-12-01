@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Ov3_IYywU0etl4gXVXNnUQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="0395f8d7-ff8f-461c-8270-1fcb29b8dabd" DesignTimeRectangle="325, 490, 288, 48" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;wnd ctrlname='button2' aaname='Client Checks' automationid='button2' title='Client Checks' /&gt;" FuzzyAccuracy="0.95" FuzzySelectorArgument="&lt;wnd ctrlname='button2' aaname='Client Checks' automationid='button2' title='Client Checks' check:text='Client Checks' /&gt;" Guid="f59e32f6-922f-4604-b8b3-e42956efd090" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='ClientDetails' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="64df283c17cd115f221d706787560153.png" xmlns="">01-Jgwk97fEmwyX60stibDw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
